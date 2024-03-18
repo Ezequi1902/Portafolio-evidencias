@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header h1{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    margin: 5px;
+}
+header {
+    background-color: #EBE27D;
+    padding: 4px;
+    height: min-content;
+    margin: 15px;
+    border-radius: 20px;
+    width: 65%;
+}
+div{
+    background-color: chocolate;
+    height: min-content;
+    margin: 15px;
+    border-radius: 20px;
+    width: 65%;
+    height: 600px;
+    padding: 4px;
+}
