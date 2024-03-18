@@ -1,0 +1,26 @@
+nav{
+    background-color: #000000;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+    width: 70%;
+    align-self: center;
+    border: rgb(162, 104, 29) 2px solid;
+}
+nav ul{
+    list-style: none;
+    display: inline-block;
+ }
+
+ nav ul li{
+     float: left;
+     text-decoration: none;
+ }
+
+ nav ul li a {
+     font-weight: bold;
+ }
+ nav ul li a:hover{
+   background-color: #0D7738;
+ }
